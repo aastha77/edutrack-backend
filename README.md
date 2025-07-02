@@ -146,7 +146,7 @@ git push -u origin main
 
 ## 📸 Postman API Testing Screenshots
 
-### 🔐 1. User Registration (Admin/Faculty/Student)  
+### 🔐 1. User Registration (Admin/Faculty/Student)
 ![Register](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/register.png)
 
 ### 🔐 2. Login with JWT Token  
