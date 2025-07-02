@@ -146,29 +146,29 @@ git push -u origin main
 
 ## 📸 Postman API Testing Screenshots
 
-### 🔐 1. User Registration (Admin/Faculty/Student)
-![Register](assets/screenshots/register.png)
+### 🔐 1. User Registration (Admin/Faculty/Student)  
+![Register](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/register.png)
 
-### 🔐 2. Login with JWT Token
-![Login](assets/screenshots/login.png)
+### 🔐 2. Login with JWT Token  
+![Login](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/login.png)
 
-### 🔒 3. Access Admin-Only Protected Route
-![Admin Access](assets/screenshots/admin-only.png)
+### 🔒 3. Access Admin-Only Protected Route  
+![Admin Access](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/admin-only.png)
 
-### 📘 4. Create Course (Admin/Faculty)
-![Create Course](assets/screenshots/create-course.png)
+### 📘 4. Create Course (Admin/Faculty)  
+![Create Course](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/create-course.png)
 
-### 🧑‍🎓 5. Student Enroll in Course
-![Enroll](assets/screenshots/enroll-course.png)
+### 🧑‍🎓 5. Student Enroll in Course  
+![Enroll](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/enroll-course.png)
 
-### 📄 6. Faculty Viewing All Enrollments
-![View Enrollments](assets/screenshots/view-enrollments.png)
+### 📄 6. Faculty Viewing All Enrollments  
+![View Enrollments](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/view-enrollments.png)
 
-### 📝 7. Faculty Marking Attendance
-![Mark Attendance](assets/screenshots/mark-attendance.png)
+### 📝 7. Faculty Marking Attendance  
+![Mark Attendance](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/mark-attendance.png)
 
-### 🎓 8. Faculty Assigning Grades
-![Assign Grade](assets/screenshots/assign-grade.png)
+### 🎓 8. Faculty Assigning Grades  
+![Assign Grade](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/assign-grade.png)
 
-### 📈 9. Student Viewing Grades
-![View Grades](assets/screenshots/view-grades.png)
+### 📈 9. Student Viewing Grades  
+![View Grades](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/view-grades.png)
