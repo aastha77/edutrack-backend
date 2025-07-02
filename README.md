@@ -149,26 +149,26 @@ git push -u origin main
 ### 🔐 1. User Registration (Admin/Faculty/Student)
 ![Register](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/register.png)
 
-### 🔐 2. Login with JWT Token  
+### 🔐 2. Login with JWT Token
 ![Login](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/login.png)
 
-### 🔒 3. Access Admin-Only Protected Route  
+### 🔒 3. Access Admin-Only Protected Route
 ![Admin Access](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/admin-only.png)
 
-### 📘 4. Create Course (Admin/Faculty)  
+### 📘 4. Create Course (Admin/Faculty)
 ![Create Course](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/create-course.png)
 
-### 🧑‍🎓 5. Student Enroll in Course  
+### 🧑‍🎓 5. Student Enroll in Course
 ![Enroll](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/enroll-course.png)
 
-### 📄 6. Faculty Viewing All Enrollments  
+### 📄 6. Faculty Viewing All Enrollments
 ![View Enrollments](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/view-enrollments.png)
 
-### 📝 7. Faculty Marking Attendance  
+### 📝 7. Faculty Marking Attendance
 ![Mark Attendance](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/mark-attendance.png)
 
-### 🎓 8. Faculty Assigning Grades  
+### 🎓 8. Faculty Assigning Grades
 ![Assign Grade](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/assign-grade.png)
 
-### 📈 9. Student Viewing Grades  
+### 📈 9. Student Viewing Grades
 ![View Grades](https://raw.githubusercontent.com/aastha77/edutrack-backend/main/assets/screenshots/view-grades.png)
